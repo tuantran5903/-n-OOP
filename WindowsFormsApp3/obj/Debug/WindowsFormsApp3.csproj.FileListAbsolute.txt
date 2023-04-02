@@ -1,0 +1,14 @@
+C:\Users\tranv\Documents\code1\C#\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\tranv\Documents\code1\C#\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\tranv\Documents\code1\C#\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\tranv\Documents\code1\C#\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+C:\Users\tranv\Documents\code1\C#\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.SuggestedBindingRedirects.cache
+C:\Users\tranv\Documents\code1\C#\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\tranv\Documents\code1\C#\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\tranv\Documents\code1\C#\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\tranv\Documents\code1\C#\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\tranv\Documents\code1\C#\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\tranv\Documents\code1\C#\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.QUANLYNHANVIEN.resources
+C:\Users\tranv\Documents\code1\C#\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.ChucNang.resources
+C:\Users\tranv\Documents\code1\C#\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.CNTT.resources
+C:\Users\tranv\Documents\code1\C#\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.ThemEmp.resources
